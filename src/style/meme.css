@@ -1,0 +1,64 @@
+body{
+    color : white;
+    font-weight: bolder;
+    font-size: 20px;
+    height: 1050px;
+    width: 100%;
+    background: url('./april-fools-day-background-4756942_1920.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.main{
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    width : 55%;
+    height : 750px;
+}
+
+header{
+    border-radius: 30px;
+    color: #ff9100;
+    padding: 15px;
+    background-color: #ffffff;
+    font-size : 55px;
+    font-weight : bolder;
+    text-align : center;
+    margin-left: -10%;
+}
+.container div {
+    float: left;
+}
+
+.left-c{
+    padding: 10px;
+    margin-top: 150px;
+    border-radius: 50px;
+    background-color: rgb(59, 54, 54);
+    position: relative;
+    text-align : center;
+    width : 38.2%;
+    border: rgb(255, 255, 255) solid 2px;
+}
+
+.right-c{  
+    text-align: center;
+    background-color:rgb(59, 54, 54);
+    width : 59%;
+    border: rgb(255, 255, 255) solid 2px;
+    border-radius: 50px;
+}
+
+
+canvas{
+    border: solid 2px black;
+}
+
+
+.inp{
+    height: 30px;
+    margin-left: -76px;
+    width: 170px;
+}
