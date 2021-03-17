@@ -1,3 +1,8 @@
+#Simple React meme generator
+
+![image](https://user-images.githubusercontent.com/34587275/111531765-41c7ec80-8765-11eb-8643-0efba72968b1.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
